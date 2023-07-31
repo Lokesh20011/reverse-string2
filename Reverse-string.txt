@@ -1,0 +1,4 @@
+#Write a Python program that accepts a word from the user and reverse it.
+String = "Edyoda"
+Result = String[::-1]
+print(Result)
